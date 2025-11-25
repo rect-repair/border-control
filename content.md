@@ -19,10 +19,17 @@ The game uses a custom load cell with an HX711 bridge sensor, an Arduino Mega 25
 Early sketch & inspiration
 ![sketch](images/inspiration.png)
 
+Other photos during playtest
+![photo](images/photo1.jpg)
+![photo2](images/photo2.JPG)
 ## Team
+
 [Joanna Lyu](https://joannalyu.com/) - game design/assembly
+
 Tianqi Zhang - programming/design
+
 Yuemin Huang - assembly
+
 Special Thanks: Jonathan @GEA, Fay Li
 ---
 
