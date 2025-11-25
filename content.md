@@ -21,11 +21,9 @@ Early sketch & inspiration
 
 ## Team
 [Joanna Lyu](https://joannalyu.com/) - game design/assembly
-
 Tianqi Zhang - programming/design
-
 Yuemin Huang - assembly
-
+Special Thanks: Jonathan @GEA, Fay Li
 ---
 
 *Last updated: 2025 Nov*
